@@ -1,0 +1,1 @@
+print("Litwo, Ojczyzno moja! ty jestes jak zdrowie;\nIle cie trzeba cenic, ten tylko sie dowie,\nKto cię stracił. Dziś piękność twą w całej ozdobie\nWidzę i opisuję, bo tęsknię po tobie.")
